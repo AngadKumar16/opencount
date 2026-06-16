@@ -1,0 +1,16 @@
+{
+  "name": "opencount",
+  "version": "1.0.0",
+  "description": "AI-powered bookkeeping plugin for openclaw — CSV import, AI categorization, terminal reports",
+  "keywords": ["openclaw", "bookkeeping", "finance", "ai", "cli"],
+  "homepage": "https://github.com/opencount/opencount",
+  "bugs": { "url": "https://github.com/opencount/opencount/issues" },
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/opencount/opencount.git" },
+  "type": "module",
+  "scripts": {
+    "website:dev":   "cd website && npm run dev",
+    "website:build": "cd website && npm run build"
+  },
+  "engines": { "node": ">=22.0.0" }
+}

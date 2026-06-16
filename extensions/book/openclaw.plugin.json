@@ -1,0 +1,8 @@
+{
+  "id": "book",
+  "activation": {
+    "onStartup": true
+  },
+  "enabledByDefault": true,
+  "contracts": {}
+}
